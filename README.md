@@ -25,7 +25,7 @@ Hey there 👋
 <!-- JS logo -->
 <a title="JS" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="50" alt="JavaScript programming language" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
 <!-- Ts logo -->
-<a title="TYPESCRIPT" href="https://www.typescriptlang.org/docs/"><img width="50" alt="https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg"></a>
+<a title="TYPESCRIPT" href="https://www.typescriptlang.org/docs/"><img width="50" src="./assets/ts.svg"></a>
 <!-- django logo -->
 <br>
 <a title="django" href="http://www.djangoproject.com"><img width="50" alt="django Python Web Framework" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png"></a>
