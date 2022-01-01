@@ -15,7 +15,7 @@ Hey there 👋
 ## Tech's
 
 <!-- HTML5 logo -->
-<img width="50" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
+<img width="40" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
 <!-- CSS3 logo -->
 <img width="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
 <img width="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
@@ -30,12 +30,12 @@ Hey there 👋
 <a title="TYPESCRIPT" href="https://www.typescriptlang.org/docs/"><img width="50" src="./assets/ts.svg"></a>
 <!-- django logo -->
 <br><br>
-<a title="django" href="http://www.djangoproject.com"><img width="50" alt="django Python Web Framework" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></a>
+<a title="django" href="http://www.djangoproject.com"><img width="70" alt="django Python Web Framework" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></a>
 <br>
 <!-- MongoDB logo -->
 <a title="MongoDB" href="https://docs.mongodb.com"><img width="90" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></a>
 <!-- ExpressJs logo -->
-<a title="ExpressJs" href="https://expressjs.com/"><img width="50" alt="ExpressJs" src="./assets/ex.svg"></a>
+<a title="ExpressJs" href="https://expressjs.com/"><img width="30" alt="ExpressJs" src="./assets/ex.svg"></a>
 <!-- AngularJs logo -->
 <a title="AngularJs" href="https://angular.io/"><img width="30" alt="AngularJs" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
 <!-- Nodejs logo -->
@@ -43,6 +43,6 @@ Hey there 👋
 <!-- MmySql Logo -->
 <br><br>
 <a title="MySql" href="https://dev.mysql.com/doc/"><img width="60" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
-<br>
+<br><br>
 - Testing
-<img width="50" alt="CSS3" style="display:inline" src="./assets/postman.svg">
+<img width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
