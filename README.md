@@ -13,14 +13,13 @@ Hey there 👋
 <br>
 
 ## Tech's
-a {
-    display:inline;
-}
+
 <!-- HTML5 logo -->
-<a title="HTML5" href="https://html.spec.whatwg.org/" ><img width="50" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"></a>
+<img width="50" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
 <!-- CSS3 logo -->
-<a title="CSS3" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width="35" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png"></a>
-<br>
+<img width="40" alt="CSS3" style="display:inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
+<img width="60" alt="CSS3" style="display:inline" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
+<br><br>
 <!-- C++ logo -->
 <a href="https://devdocs.io/cpp/"><img width="50" alt="C++ programming language" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
 <!-- Python logo -->
@@ -30,17 +29,20 @@ a {
 <!-- Ts logo -->
 <a title="TYPESCRIPT" href="https://www.typescriptlang.org/docs/"><img width="50" src="./assets/ts.svg"></a>
 <!-- django logo -->
-<br>
-<a title="django" href="http://www.djangoproject.com"><img width="50" alt="django Python Web Framework" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png"></a>
+<br><br>
+<a title="django" href="http://www.djangoproject.com"><img width="50" alt="django Python Web Framework" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></a>
 <br>
 <!-- MongoDB logo -->
-<a title="MongoDB" href="https://docs.mongodb.com"><img width="50" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></a>
+<a title="MongoDB" href="https://docs.mongodb.com"><img width="90" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></a>
 <!-- ExpressJs logo -->
-<a title="ExpressJs" href="https://expressjs.com/"><img width="50" alt="ExpressJs" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></a>
+<a title="ExpressJs" href="https://expressjs.com/"><img width="50" alt="ExpressJs" src="./assets/ex.svg"></a>
 <!-- AngularJs logo -->
-<a title="AngularJs" href="https://angular.io/"><img width="50" alt="AngularJs" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
+<a title="AngularJs" href="https://angular.io/"><img width="30" alt="AngularJs" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
 <!-- Nodejs logo -->
-<a title="NodeJs" href="https://nodejs.org/"><img width="50" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
+<a title="NodeJs" href="https://nodejs.org/"><img width="90" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
 <!-- MmySql Logo -->
+<br><br>
+<a title="MySql" href="https://dev.mysql.com/doc/"><img width="60" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
 <br>
-<a title="MySql" href="https://dev.mysql.com/doc/"><img width="50" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
+- Testing
+<img width="50" alt="CSS3" style="display:inline" src="./assets/postman.svg">
