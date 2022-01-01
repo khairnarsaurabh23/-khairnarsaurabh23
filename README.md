@@ -25,7 +25,7 @@ Hey there 👋
 <!-- JS logo -->
 <a title="JS" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="50" alt="JavaScript programming language" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
 <!-- Ts logo -->
-<a title="HTML5" href="https://www.typescriptlang.org/docs/"><img width="50" alt="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></a>
+<a title="TYPESCRIPT" href="https://www.typescriptlang.org/docs/"><img width="50" alt="https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg"></a>
 <!-- django logo -->
 <br>
 <a title="django" href="http://www.djangoproject.com"><img width="50" alt="django Python Web Framework" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png"></a>
@@ -40,4 +40,4 @@ Hey there 👋
 <a title="NodeJs" href="https://nodejs.org/"><img width="50" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
 <!-- MmySql Logo -->
 <br>
-<a title="MySql" href="https://dev.mysql.com/doc/"><img width="50" alt="MmySql" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Antu_mysql-workbench.svg"></a>
+<a title="MySql" href="https://dev.mysql.com/doc/"><img width="50" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
