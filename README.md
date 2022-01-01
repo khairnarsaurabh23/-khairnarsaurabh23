@@ -49,4 +49,4 @@ Hey there 👋
 
 
 # Github Stat's :smile:
-[Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairnarsaurabh23&theme=cobalt&show_icons=true)
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairnarsaurabh23&theme=cobalt&show_icons=true)
