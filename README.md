@@ -17,8 +17,8 @@ Hey there 👋
 <!-- HTML5 logo -->
 <img width="50" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
 <!-- CSS3 logo -->
-<img width="40" alt="CSS3" style="display:inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
-<img width="60" alt="CSS3" style="display:inline" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
+<img width="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
+<img width="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
 <br><br>
 <!-- C++ logo -->
 <a href="https://devdocs.io/cpp/"><img width="50" alt="C++ programming language" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
