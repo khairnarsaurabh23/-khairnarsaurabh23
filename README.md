@@ -13,8 +13,11 @@ Hey there 👋
 <br>
 
 ## Tech's
+a {
+    display:inline;
+}
 <!-- HTML5 logo -->
-<a title="HTML5" href="https://html.spec.whatwg.org/"><img width="50" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"></a>
+<a title="HTML5" href="https://html.spec.whatwg.org/" ><img width="50" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"></a>
 <!-- CSS3 logo -->
 <a title="CSS3" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width="35" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png"></a>
 <br>
