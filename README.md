@@ -46,3 +46,7 @@ Hey there 👋
 <br><br>
 - Testing
 <img width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
+
+
+# Github Stat's :smile:
+[Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairnarsaurabh23&theme=cobalt&show_icons=true)
