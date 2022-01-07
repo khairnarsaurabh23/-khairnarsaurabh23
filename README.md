@@ -15,7 +15,7 @@ Hey there 👋
 ## Tech's
 
 <!-- HTML5 logo -->
-<a href='#'><img height="40" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
+<a href='#'><img height="30" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
 <!-- CSS3 logo -->
 <img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
 <!-- bootstrap -->
