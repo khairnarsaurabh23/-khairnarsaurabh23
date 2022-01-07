@@ -14,12 +14,14 @@ Hey there 👋
 
 ## Tech's
 
-<!-- HTML5 logo -->
-<a href='#'><img height="30" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
-<!-- CSS3 logo -->
-<img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
-<!-- bootstrap -->
-<img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></a>
+
+<a href='#'>
+  <!-- CSS3 logo -->
+  <img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
+  <!-- HTML5 logo -->
+  <img height="30" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
+  <!-- bootstrap -->
+  <img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></a>
 <!-- C++ logo -->
 <a href="https://devdocs.io/cpp/"><img width="50" alt="C++ programming language" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
 <!-- Python logo -->
@@ -45,7 +47,7 @@ Hey there 👋
 <br><br>
 <b>Testing</b>
 <img width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
-<br><br>
+<br>
 <b>OS</b><br>
 <a title="fedora linux 33" href="https://getfedora.org/"><img width="60" alt="fedora" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fedora-logo.svg"></a>
 <a title="debian linux" href="https://www.debian.org/"><img width="60" alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Faenza-distributor-logo-debian.svg"></a>
