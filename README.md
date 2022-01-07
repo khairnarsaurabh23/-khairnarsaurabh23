@@ -15,11 +15,11 @@ Hey there 👋
 ## Tech's
 
 <!-- HTML5 logo -->
-<img height="40" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
+<a href='#'><img height="40" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"></a>
 <!-- CSS3 logo -->
-<img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
+<a href='#'><img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png"></a>
 <!-- bootstrap -->
-<img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
+<a href='#'><img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></a>
 <!-- C++ logo -->
 <a href="https://devdocs.io/cpp/"><img width="50" alt="C++ programming language" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
 <!-- Python logo -->
@@ -46,10 +46,10 @@ Hey there 👋
 <b>Testing</b>
 <img width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
 <br><br>
-<b>OS</b>
+<b>OS</b><br>
 <a title="fedora linux 33" href="https://getfedora.org/"><img width="60" alt="fedora" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fedora-logo.svg"></a>
-<a title="fedora linux 33" href="https://www.debian.org/"><img width="60" alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Faenza-distributor-logo-debian.svgg"></a>
-<a title="pop os" href="https://pop.system76.com/"><img width="60" alt="pop_os" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pop_OS-logo.png"></a>
+<a title="debian linux" href="https://www.debian.org/"><img width="60" alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Faenza-distributor-logo-debian.svg"></a>
+<a title="pop os" href="https://pop.system76.com/"><img width="60" alt="pop_os" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg"></a>
 
 
 
