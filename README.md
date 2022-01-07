@@ -17,9 +17,9 @@ Hey there 👋
 
 <a href='#'>
   <!-- CSS3 logo -->
-  <img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
+  <img height="50" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
   <!-- HTML5 logo -->
-  <img height="30" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
+  <img height="40" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
   <!-- bootstrap -->
   <img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></a>
 <!-- C++ logo -->
