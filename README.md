@@ -13,9 +13,8 @@ Hey there 👋
 <br>
 
 # Github Stat's :sunglasses:
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairnarsaurabh23&hide=total_stars_earned&theme=dark&show_icons=true)
-# Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairnarsaurabh23&layout=compact&theme=dark)
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairnarsaurabh23&hide=total_stars_earned&theme=cobalt&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairnarsaurabh23&layout=compact&theme=cobalt)
 
 
 ## Tech's
