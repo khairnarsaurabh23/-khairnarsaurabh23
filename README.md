@@ -1,4 +1,4 @@
-# khairnar Saurabh
+# Khairnar Saurabh
 
 ![Saurabh's GitHub Banner](./assets/saurabh.png)
 
