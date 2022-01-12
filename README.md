@@ -1,6 +1,7 @@
 # Khairnar Saurabh
 
-<img alt="Saurabh's Github Banner" height=300 width=500 align='center' src='./assets/saurabh.png'>
+<img alt="Saurabh's Github Banner" height=400 width=800 align='center' src='./assets/saurabh.png'>
+
 
 Hey there 👋
 
