@@ -5,7 +5,8 @@
 
 Hey there 👋
 
-- I’m Khairnar Saurabh, a aspiring full-stack web developer, creative coder. I'm dedicated to the my work and always seeks for challanges to be solved. 
+- I’m Khairnar Saurabh, a aspiring full-stack web developer, creative coder. I'm dedicated to the my work and always seeks for challanges to be solved.
+- Currently working on Landing page on GOAT Mathematician Ramanujan. 
 - Reading books (history || personal development || Investment), listening to a good music and going out for trakking are my hobbies.
 
 
@@ -36,7 +37,6 @@ Hey there 👋
 <a title="JS" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="50" alt="JavaScript programming language" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
 <!-- Ts logo -->
 <a title="TYPESCRIPT" href="https://www.typescriptlang.org/docs/"><img width="50" src="./assets/ts.svg"></a>
-<br><br>
 <!-- django logo -->
 <a title="django" href="http://www.djangoproject.com"><img width="80" alt="django Python Web Framework" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></a>
 <!-- MongoDB logo -->
@@ -48,13 +48,8 @@ Hey there 👋
 <!-- Nodejs logo -->
 <a title="NodeJs" href="https://nodejs.org/"><img width="90" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
 <!-- MmySql Logo -->
-<br><br>
 <a title="MySql" href="https://dev.mysql.com/doc/"><img width="60" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
-<br><br>
-<b>Testing</b>
 <img width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
-<br>
-<b>OS</b><br>
 <a title="fedora linux 33" href="https://getfedora.org/"><img width="60" alt="fedora" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fedora-logo.svg"></a>
 <a title="debian linux" href="https://www.debian.org/"><img width="60" alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Faenza-distributor-logo-debian.svg"></a>
 <a title="pop os" href="https://pop.system76.com/"><img width="60" alt="pop_os" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg"></a>
