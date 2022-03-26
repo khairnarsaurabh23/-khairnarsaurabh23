@@ -38,15 +38,15 @@ Hey there 👋
 <!-- Ts logo -->
 <a title="TYPESCRIPT" href="https://www.typescriptlang.org/docs/"><img width="50" src="./assets/ts.svg"></a>
 <!-- django logo -->
-<a title="django" href="http://www.djangoproject.com"><img width="80" alt="django Python Web Framework" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></a>
+<a title="django" href="http://www.djangoproject.com"><img width="100" alt="django Python Web Framework" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></a>
 <!-- MongoDB logo -->
-<a title="MongoDB" href="https://docs.mongodb.com"><img width="90" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></a>
+<a title="MongoDB" href="https://docs.mongodb.com"><img width="110" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></a>
 <!-- ExpressJs logo -->
-<a title="ExpressJs" href="https://expressjs.com/"><img width="30" alt="ExpressJs" src="./assets/ex.svg"></a>
+<a title="ExpressJs" href="https://expressjs.com/"><img width="50" alt="ExpressJs" src="./assets/ex.svg"></a>
 <!-- AngularJs logo -->
-<a title="AngularJs" href="https://angular.io/"><img width="30" alt="AngularJs" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
+<a title="AngularJs" href="https://angular.io/"><img width="50" alt="AngularJs" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
 <!-- Nodejs logo -->
-<a title="NodeJs" href="https://nodejs.org/"><img width="90" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
+<a title="NodeJs" href="https://nodejs.org/"><img width="100" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
 <!-- MmySql Logo -->
 <a title="MySql" href="https://dev.mysql.com/doc/"><img width="60" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
 <img width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
