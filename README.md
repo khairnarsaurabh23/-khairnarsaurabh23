@@ -40,15 +40,15 @@ Hey there 👋
 <!-- django logo -->
 <a title="django" href="http://www.djangoproject.com"><img width="100" alt="django Python Web Framework" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></a>
 <!-- MongoDB logo -->
-<a title="MongoDB" href="https://docs.mongodb.com"><img width="110" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></a>
+<a title="MongoDB" href="https://docs.mongodb.com"><img width="150" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></a>
 <!-- ExpressJs logo -->
 <a title="ExpressJs" href="https://expressjs.com/"><img width="50" alt="ExpressJs" src="./assets/ex.svg"></a>
 <!-- AngularJs logo -->
 <a title="AngularJs" href="https://angular.io/"><img width="50" alt="AngularJs" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
 <!-- Nodejs logo -->
-<a title="NodeJs" href="https://nodejs.org/"><img width="100" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
+<a title="NodeJs" href="https://nodejs.org/"><img width="150" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
 <!-- MmySql Logo -->
-<a title="MySql" href="https://dev.mysql.com/doc/"><img width="60" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
+<a title="MySql" href="https://dev.mysql.com/doc/"><img width="100" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
 <img style="display:inline-block" width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
 <a title="fedora linux 33" href="https://getfedora.org/"><img width="60" alt="fedora" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fedora-logo.svg"></a>
 <a title="debian linux" href="https://www.debian.org/"><img width="60" alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Faenza-distributor-logo-debian.svg"></a>
