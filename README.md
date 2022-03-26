@@ -49,7 +49,7 @@ Hey there 👋
 <a title="NodeJs" href="https://nodejs.org/"><img width="100" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
 <!-- MmySql Logo -->
 <a title="MySql" href="https://dev.mysql.com/doc/"><img width="60" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
-<img width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
+<img style="display:inline-block" width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
 <a title="fedora linux 33" href="https://getfedora.org/"><img width="60" alt="fedora" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fedora-logo.svg"></a>
 <a title="debian linux" href="https://www.debian.org/"><img width="60" alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Faenza-distributor-logo-debian.svg"></a>
 <a title="pop os" href="https://pop.system76.com/"><img width="60" alt="pop_os" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg"></a>
