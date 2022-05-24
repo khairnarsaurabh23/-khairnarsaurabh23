@@ -6,7 +6,6 @@
 Hey there 👋
 
 - I’m Khairnar Saurabh, a aspiring full-stack web developer, creative coder. I'm dedicated to the my work and always seeks for challanges to be solved.
-- Currently working on Landing page on GOAT Mathematician Ramanujan. 
 - Reading books (history || personal development || Investment), listening to a good music and going out for trakking are my hobbies.
 
 
