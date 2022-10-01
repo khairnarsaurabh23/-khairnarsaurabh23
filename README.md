@@ -6,7 +6,7 @@
 Hey there 👋
 
 - I’m Khairnar Saurabh, a aspiring full-stack web developer, creative coder. I'm dedicated to the my work and always seeks for challanges to be solved.
-- I'm a 3rd year Computer Engineering Undergraduate from SPPU,India.
+- I'm a final year Computer Engineering Undergraduate from SPPU,India.
 - Reading books (history || personal development || Investment), listening to a good music and going out for trakking are my hobbies.
 
 
