@@ -1,59 +1,68 @@
 # Khairnar Saurabh
 
-<!-- <img alt="Saurabh's Github Banner" height=400 width=800 align='center' src='./assets/saurabh.png'> -->
+<div align="center" style="display:flex; justify-content:space-around;">
+<img alt="Saurabh's Github Banner" height=200 width=400 src='./assets/saurabh.png'>
+</div>
+<br/>
+<p align="center" >
+  <!-- LinkedIn Badge -->
+  <a  href="https://www.linkedin.com/in/saurabhkhairnar23/">
+    <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <!-- Codechef Badge -->
+  <a  href="https://www.codechef.com/users/sawy">
+    <img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge">
+  </a>
 
+  <!-- Twitter Badge -->
+  <a href="https://twitter.com/aka__sawy">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
+</p>
+<br/>
 
-Hey there 👋
+Ram Ram Ji 🙏,
 
-- I’m Khairnar Saurabh, a aspiring full-stack web developer, creative coder. I'm dedicated to the my work and always seeks for challanges to be solved.
-- I'm a final year Computer Engineering Undergraduate from SPPU,India.
-- Reading books (history || personal development || Investment), listening to a good music and going out for trakking are my hobbies.
-
-
-## Connect with me 
-- [Twitter](https://twitter.com/aka__sawy)
-<br>
-
-# Github Stat's :sunglasses:
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairnarsaurabh23&hide=total_stars_earned&theme=cobalt&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairnarsaurabh23&layout=compact&theme=cobalt)
-
+- I’m Khairnar Saurabh, a passionate and dedicated human being. I hold a 3★ coder rating at @[codechef](https://www.codechef.com/users/sawy), and I'm a full-stack developer, open-source contributor, and creative coder.
+- I'm a Computer Engineering Graduate from SPPU, India.
+- Reading books (history || personal development || investment), listening to good music, and going out for trekking are my hobbies.
 
 ## Tech's
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-
-<a href='#'>
+<!-- Tech's I'm familiar with -->
+<div >
   <!-- CSS3 logo -->
-  <img height="50" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/256px-CSS3_logo_and_wordmark.svg.png">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
   <!-- HTML5 logo -->
-  <img height="40" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
-  <!-- bootstrap -->
-  <img height="40" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></a>
-<!-- C++ logo -->
-<a href="https://devdocs.io/cpp/"><img width="50" alt="C++ programming language" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
-<!-- Python logo -->
-<a href="https://docs.python.org"><img width="50" alt="Python programming language" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
-<!-- JS logo -->
-<a title="JS" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="50" alt="JavaScript programming language" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
-<!-- Ts logo -->
-<a title="TYPESCRIPT" href="https://www.typescriptlang.org/docs/"><img width="50" src="./assets/ts.svg"></a>
-<!-- django logo -->
-<a title="django" href="http://www.djangoproject.com"><img width="100" alt="django Python Web Framework" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></a>
-<!-- MongoDB logo -->
-<a title="MongoDB" href="https://docs.mongodb.com"><img width="150" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></a>
-<!-- ExpressJs logo -->
-<a title="ExpressJs" href="https://expressjs.com/"><img width="50" alt="ExpressJs" src="./assets/ex.svg"></a>
-<!-- AngularJs logo -->
-<a title="AngularJs" href="https://angular.io/"><img width="50" alt="AngularJs" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
-<!-- Nodejs logo -->
-<a title="NodeJs" href="https://nodejs.org/"><img width="150" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></a>
-<!-- MmySql Logo -->
-<a title="MySql" href="https://dev.mysql.com/doc/"><img width="100" alt="MmySql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
-<img style="display:inline-block" width="50" alt="postman" style="display:inline" src="./assets/postman.svg">
-<a title="fedora linux 33" href="https://getfedora.org/"><img width="60" alt="fedora" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fedora-logo.svg"></a>
-<a title="debian linux" href="https://www.debian.org/"><img width="60" alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Faenza-distributor-logo-debian.svg"></a>
-<a title="pop os" href="https://pop.system76.com/"><img width="60" alt="pop_os" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg"></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- C++ logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- JS logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- TypeScript logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- Python logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- MongoDB logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- ExpressJs logo -->
+  <img src="./ex.svg" title="ExpressJs" alt="ExpressJs" width="50" height="50" background="#FFFFFF" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- AngularJs logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJs" alt="AngularJs" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- React logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- Nodejs logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- MySql Logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+  <!-- Postman logo -->
+  <img src="./assets/postman.svg" title="Postman" alt="Postman" width="50" height="50" style="padding: 4px; display: inline-block; transition: transform 0.5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+</div>
 
+# Github Stat's :sunglasses:
 
-
-
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairnarsaurabh23&hide=total_stars_earned&theme=cobalt&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairnarsaurabh23&layout=compact&theme=cobalt)
